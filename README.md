@@ -1,10 +1,4 @@
 ## 🛠 Tecnologías que manejo
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=sqlite" />
-  <img src="https://skillicons.dev/icons?i=git" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,js,css,html,mysql,sqlite,git,github,vscode" />
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
