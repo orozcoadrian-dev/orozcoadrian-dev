@@ -1,3 +1,8 @@
+### WHO AM I?
+I am a Systems Engineering student specializing in Information Systems, deeply focused on software development and the engineering processes that support it. My approach goes beyond just writing code; I actively engage in the entire software development lifecycle—from gathering and analyzing requirements to structuring clean technical documentation and designing efficient database architectures.
+
+I thrive on solving complex backend problems and translating user needs into structured, scalable system designs. Currently, I am dedicated to reinforcing my core foundations in programming and relational databases while building real-world projects that combine technical precision with clear documentation and engineering best practices.
+
 ## TECHNOLOGIES AND TOOLS I HAVE USED
 
 ### PROGRAMMING LANGUAGES AND WEB DEVELOPMENT
