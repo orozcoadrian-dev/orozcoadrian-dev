@@ -3,7 +3,7 @@ I am a Systems Engineering student specializing in Information Systems, deeply f
 
 I thrive on solving complex backend problems and translating user needs into structured, scalable system designs. Currently, I am dedicated to reinforcing my core foundations in programming and relational databases while building real-world projects that combine technical precision with clear documentation and engineering best practices.
 
-## TECHNOLOGIES AND TOOLS I HAVE USED
+## TECHNOLOGIES AND TOOLS I HAVE USED:
 
 ### PROGRAMMING LANGUAGES AND WEB DEVELOPMENT
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) **Java** (Logic, Object-oriented Programming)
