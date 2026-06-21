@@ -18,3 +18,11 @@ I thrive on solving complex backend problems and translating user needs into str
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) **Git & GitHub** (Version control and repository hosting)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) **Visual Studio Code** (Main code editor and customization)
 - ![Xampp](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white) **XAMPP** (Local development environment for server and MySQL management)
+
+## 🧠 Mis Habilidades
+![Análisis de Requisitos](https://img.shields.io/badge/🔍_Análisis_de_Requisitos-4B0082?style=for-the-badge&labelColor=4B0082&color=4B0082)
+![Toma de Decisiones](https://img.shields.io/badge/🎯_Toma_de_Decisiones-FF6F00?style=for-the-badge&labelColor=FF6F00&color=FF6F00)
+![Liderazgo y Control](https://img.shields.io/badge/👑_Liderazgo_y_Control-1565C0?style=for-the-badge&labelColor=1565C0&color=1565C0)
+![Documentación](https://img.shields.io/badge/📄_Documentación-2E8B57?style=for-the-badge&labelColor=2E8B57&color=2E8B57)
+![Organización](https://img.shields.io/badge/🗂️_Organización-6A5ACD?style=for-the-badge&labelColor=6A5ACD&color=6A5ACD)
+![Trabajo en Equipo](https://img.shields.io/badge/🤝_Trabajo_en_Equipo-0078D7?style=for-the-badge&labelColor=0078D7&color=0078D7)
