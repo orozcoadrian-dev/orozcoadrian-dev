@@ -1,4 +1,4 @@
-<img src="banner-orozco-adrian.svg" width="100%" />
+<img src="banner-ao-orozco.svg" width="100%" />
 
 ### ABOUT ME
 I am a Systems Engineering student specializing in Information Systems, deeply focused on software development and the engineering processes that support it. My approach goes beyond just writing code; I actively engage in the entire software development lifecycle—from gathering and analyzing requirements to structuring clean technical documentation and designing efficient database architectures.
