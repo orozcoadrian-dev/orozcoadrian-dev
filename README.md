@@ -1,3 +1,5 @@
+<img src="banner-orozco-adrian.svg" width="100%" />
+
 ### ABOUT ME
 I am a Systems Engineering student specializing in Information Systems, deeply focused on software development and the engineering processes that support it. My approach goes beyond just writing code; I actively engage in the entire software development lifecycle—from gathering and analyzing requirements to structuring clean technical documentation and designing efficient database architectures.
 
@@ -18,5 +20,3 @@ I thrive on solving complex backend problems and translating user needs into str
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) **Git & GitHub** (Version control and repository hosting)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) **Visual Studio Code** (Main code editor and customization)
 - ![Xampp](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white) **XAMPP** (Local development environment for server and MySQL management)
-
-<img src="banner-orozco-adrian.svg" width="100%" />
