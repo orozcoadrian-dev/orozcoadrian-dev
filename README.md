@@ -16,7 +16,7 @@ I thrive on solving complex backend problems and translating user needs into str
 - ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) **MySQL** (Relational design, queries and normalization)
 - ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) **SQLite** (Lightweight databases and local development)
 
-### VERSION CONTROL AND WORKING ENVIRONMEN
+### VERSION CONTROL AND WORKING ENVIRONMENT
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) **Git & GitHub** (Version control and repository hosting)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) **Visual Studio Code** (Main code editor and customization)
 - ![Xampp](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white) **XAMPP** (Local development environment for server and MySQL management)
