@@ -10,7 +10,7 @@
 
 ---
 
-# 👨‍💻 About Me
+# ABOUT ME
 
 I'm a **Systems Engineering student** passionate about designing and building software that is clean, maintainable, and scalable.
 
@@ -54,7 +54,7 @@ Currently, I'm strengthening my technical foundation by developing real-world pr
 
 # FEATURED PROJECTS
 
-### atrix — Inventory Management System *(In Development)*
+### Matrix — Inventory Management System *(In Development)*
 
 A desktop inventory management system focused on **maintainability**, **clean architecture**, and **object-oriented design**.
 
