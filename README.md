@@ -1,22 +1,34 @@
 <img src="banner-ao-orozco.svg" width="100%" />
 
-### ABOUT ME
-I am a Systems Engineering student specializing in Information Systems, deeply focused on software development and the engineering processes that support it. My approach goes beyond just writing code; I actively engage in the entire software development lifecycle—from gathering and analyzing requirements to structuring clean technical documentation and designing efficient database architectures.
+# ABOUT ME
 
-I thrive on solving complex backend problems and translating user needs into structured, scalable system designs. Currently, I am dedicated to reinforcing my core foundations in programming and relational databases while building real-world projects that combine technical precision with clear documentation and engineering best practices.
+I'm a **Systems Engineering student** focused on **backend development, software architecture, and relational database design**.
+I enjoy transforming software requirements into structured, maintainable solutions by combining clean code, technical documentation, and engineering best practices.
+Currently, I'm strengthening my knowledge through real-world projects while continuously improving my skills in Java, databases, and software development.
+---
 
-## TECHNOLOGIES AND TOOLS I HAVE USED:
+# TECH STACK
 
-### PROGRAMMING LANGUAGES AND WEB DEVELOPMENT
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) **Java** (Logic, Object-oriented Programming)
-- ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) **JavaScript** (*Constantly learning and deepening*)
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) **HTML5 & CSS3** (Structure, layout y  web design)
+## Programming Languages & Web Development
 
-### DATABASES
-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) **MySQL** (Relational design, queries and normalization)
-- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) **SQLite** (Lightweight databases and local development)
+- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> **Java** *(Logic, Object-Oriented Programming, Data Structures)*
 
-### VERSION CONTROL AND WORKING ENVIRONMENT
-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) **Git & GitHub** (Version control and repository hosting)
-- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) **Visual Studio Code** (Main code editor and customization)
-- ![Xampp](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white) **XAMPP** (Local development environment for server and MySQL management)
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> **JavaScript (ES6+, DOM & OOP)**
+
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> **HTML5 & CSS3** *(Structure, Layout and Responsive Design)*
+---
+
+## Databases
+- <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> **MySQL** *(Database Design, Queries and Normalization)*
+
+- <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> **SQLite** *(Local development and lightweight databases)*
+---
+
+## Development Tools
+- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> **Git & GitHub** *(Version Control & Collaboration)*
+
+- <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> **Visual Studio Code**
+
+- <img src="https://img.shields.io/badge/MySQL%20Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white"/> **MySQL Workbench**
+
+- <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/> **XAMPP**
