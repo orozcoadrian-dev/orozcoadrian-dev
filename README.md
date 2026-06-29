@@ -1,5 +1,3 @@
-<img src="banner-ao-orozco.svg" width="100%" />
-
 <div align="center">
 
 ### Backend Developer • Systems Engineering Student • Software Architecture Enthusiast
