@@ -52,38 +52,4 @@ Currently, I'm strengthening my skills by building real-world projects while con
 
 ---
 
-# FEATURED PROJECTS
-
-## Matrix — Inventory Management System *(In Development)*
-
-Desktop-based inventory management system focused on clean architecture, maintainability, and object-oriented design.
-
-**Tech:** Java • JDBC • MySQL • MVC
-
----
-
-## Personal Portfolio
-
-Responsive portfolio website showcasing my projects, technical skills, and professional journey.
-
-**Tech:** HTML • CSS • JavaScript
-
----
-
-## Secure Wave
-
-Modern and responsive landing page focused on user experience, accessibility, and performance.
-
-**Tech:** HTML • CSS • JavaScript
-
----
-
-# CURRENTLY LEARNING
-
-* Software Architecture
-* Design Patterns
-* Clean Code
-
----
-
 > *"Good software isn't only built with code—it is built with architecture, quality, and thoughtful engineering."*
