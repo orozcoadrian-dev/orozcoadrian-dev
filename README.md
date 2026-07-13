@@ -23,9 +23,8 @@ Currently, I'm strengthening my skills by building real-world projects while con
 # TECHNOLOGIES AND TOOLS I HAVE WORKED WITH
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,sqlite,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,sqlite,git,github,vscode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" />
 </p>
 
 <div align="center">
